@@ -1,6 +1,6 @@
 # VWAP-indicator-for-Metatrader-5
 
-Se quiserem usar o indicador dentro de um expert advisor, adicionem: export // necessário colocar o export para gerar o arquivo .mqh
+Se quiserem usar o indicador dentro de um expert advisor, adicionem: **export** // necessário colocar o export para gerar o arquivo .mqh
 
 Dessa forma: 
 
