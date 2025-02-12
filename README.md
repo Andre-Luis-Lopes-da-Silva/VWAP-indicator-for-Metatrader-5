@@ -1,5 +1,18 @@
 # VWAP-indicator-for-Metatrader-5
 
+𝗜𝗻𝗱𝗶𝗰𝗮𝗱𝗼𝗿 𝗩𝗪𝗔𝗣 (𝗩𝗼𝗹𝘂𝗺𝗲 𝗪𝗲𝗶𝗴𝗵𝘁𝗲𝗱 𝗔𝘃𝗲𝗿𝗮𝗴𝗲 𝗣𝗿𝗶𝗰𝗲) 𝗽𝗮𝗿𝗮 𝗺𝗲𝘁𝗮𝘁𝗿𝗮𝗱𝗲𝗿 𝟱
+
+A VWAP (Volume Weighted Average Price) é um indicador técnico que calcula o preço médio ponderado por volume de um ativo durante um determinado período de tempo. A VWAP é amplamente usada em análise técnica para avaliar o preço médio de um ativo considerando o volume negociado, o que dá uma visão mais precisa do valor real de mercado em comparação com o simples preço médio.
+
+𝐂𝐨𝐦𝐨 𝐮𝐭𝐢𝐥𝐢𝐳𝐚𝐫 𝐚 𝐕𝐖𝐀𝐏?
+
+A VWAP é muito útil para traders que desejam identificar áreas de suporte ou resistência baseadas em volumes. Aqui estão algumas formas comuns de usá-la:
+
+- Tendência de Alta (Acima da VWAP);
+- Tendência de Baixa (Abaixo da VWAP);
+- Reversão e Retestes;
+- Alvo para Trades Intraday
+
 Se quiserem usar o indicador dentro de um expert advisor, adicionem: **export** // necessário colocar o export para gerar o arquivo .mqh
 
 Dessa forma: 
